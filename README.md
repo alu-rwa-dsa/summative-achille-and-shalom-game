@@ -14,4 +14,28 @@ For user participation, we need to have feedbacks to know the improvements and a
 4.Where users can get help with your project
 The user can come back to us for help in a difficulty he may encounter in our App.
 
-5.Who maintains and contributes to the project
+5.Who maintains and contributes to the proje
+The project was conceived by the whole team, the contribution of the project comes from all sides of our team members, we set out to implement the backup as a project or at least the data backup. In every application or file form there is a backup or a deletion. In general the maintenance of this project depends on the members of the group. 
+
+But the problem that we have on the programe is like we need to make a vizuale representation of the app and the how we can inclus the app on the application systeme like ANDROID ,IOS  OR WINDOWS.
+
+
+In the file Appcontact you can see the implementation of the application and everthing that you need to know .
+
+
+LINK VIDEO : https://drive.google.com/drive/folders/1oO7YnP4z29opXIUbM-yNy_g4ZOCHNUbh?usp=sharing
+In this link you can see how the application work and then what exactly we need to do the amelioration .
+
+REFERENCES 
+2021. [online] Available at: <https://developer.android.com/work/contacts> [Accessed 26 April 2021].
+2022. Sbcreationgroup.com. 2021. Software Development, Web Design and Development company in india. [online] Available at: <https://www.sbcreationgroup.com/> [Accessed 26 April 2021].2021. [online] Available at: <https://www.appypie.com/faqs/how-can-i-create-a-contact-list-or-a-contact-us-page-in-my-app> [Accessed 26 April 2021].
+2023. Open As App. 2021. How to Create a Contact Form App in No Time - Open As App. [online] Available at: <https://www.openasapp.com/contact-form-app/> [Accessed 26 April 2021].
+
+APP SOLUTION 
+
+For the solution to our application we would like to have the support of a professional who can guide us through the application development process.
+We think that the solution to our problem lies in the accompaniment of an expert in mobile app because our project is more focused in the mobile but we also want a documentation with steps that can guide us in a specific application of this kind of App.but we think that we can push the application in different orientation. 
+But also with a lot of research we will be able to find how to solve but for the resolution of the minimal problems like the graphic representation we can use some modul like matplobib but at this level it is how to introduce this visual in the applications and we want to be able to the application in an international scale.
+The only way to solve this problem is to work with an expert, which is most likely to be the case.
+
+
