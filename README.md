@@ -1,5 +1,15 @@
 # summative-achille-kidus-shalom-game
 summative-achille-and-shalom-game created by GitHub Classroom
+AUTHOR :
+Achille Tanwouo
+Kidus 
+Shalom Mageza
+
+Language USE:
+Python
+
+DESCRIPTION:
+
 
 
 1.What the project does:
