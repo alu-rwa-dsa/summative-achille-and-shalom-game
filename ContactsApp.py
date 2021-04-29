@@ -1,5 +1,6 @@
-
-#I will start by defining a class 'Contact' with different attributes
+#Authors
+#Achille, Kidus, Shalom
+#We will start by defining a class 'Contact' with different attributes
 import numpy
 import matplotlib.pyplot as plt
 
@@ -16,7 +17,7 @@ class Contact:
 #Below is the list Of the user's initial contacts
 list_of_contacts = []
 
-#To demonstate the use of other functions to the user I started by adding a number of contacts
+#To demonstate the use of other functions to the user We started by adding a number of contacts
 contact1 = Contact("Mageza Shalom", "0787218771", "elsonmageza@gmail.com", "21/09/2000", "Family")
 contact2 = Contact("Kidus Mengistu", "0781216728", "k.mengistu@alustudent.com", "14/04/2000", "Friend")
 
@@ -24,7 +25,7 @@ list_of_contacts.append(contact1)
 list_of_contacts.append(contact2)
 
 
-#here is where I defned my functions, to view, add, and remove a contact from the lsit of contacts
+#here is where We defned my functions, to view, add, and remove a contact from the lsit of contacts
 
 # The function for veiwing one contact's details
 def view_contact(list_of_contact):
