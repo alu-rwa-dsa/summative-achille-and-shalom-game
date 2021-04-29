@@ -2,7 +2,7 @@
 summative-achille-and-shalom-game created by GitHub Classroom
 AUTHOR :
 Achille Tanwouo
-Kidus 
+Kidus Mengistu 
 Shalom Mageza
 
 Language USE:
