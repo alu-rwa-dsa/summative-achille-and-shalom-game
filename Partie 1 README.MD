@@ -38,6 +38,15 @@ Insert a key to the linked list. An insertion can be done in 3 different ways; i
 Removes an element x from a given linked list. You cannot delete a node by a single step. A deletion can be done in 3 different ways; delete from the beginning of the list, delete from the end of the list and delete from the middle of the list.
 
 # II-ALGORITHME USE :
+# Brute force algorithm
+A brute force algorithm simply tries all the possibilities until a satisfactory solution is found.
+
+Such types of algorithm are also used to find the optimal (best) solution as it checks all the possible solutions.
+
+And also used for finding a satisfactory solution (not the best), simply stop as soon as a solution of the problem is found.
+
+# Randomized algorithm
+A randomized algorithm uses a random number at least once during the computation to make a decision.
 
 
 # MOTIVATION:
