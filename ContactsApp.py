@@ -18,7 +18,7 @@ list_of_contacts = []
 
 #To demonstate the use of other functions to the user I started by adding a number of contacts
 contact1 = Contact("Mageza Shalom", "0787218771", "elsonmageza@gmail.com", "21/09/2000", "Family")
-contact2 = Contact("ELson Magezaa", "0788683189", "shalomkeibe@gmail.com", "20/04/1967", "Family")
+contact2 = Contact("Kidus Mengistu", "0781216728", "k.mengistu@alustudent.com", "14/04/2000", "Friend")
 
 list_of_contacts.append(contact1)
 list_of_contacts.append(contact2)
