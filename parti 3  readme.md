@@ -41,7 +41,8 @@ contact2 = Contact("ELson Magezaa", "0788683189", "shalomkeibe@gmail.com", "20/0
         else:
             print("\nContact Name Not Found!")
             
-            
+ The time complexity for this def view is BIG(o) because we just have one execution 
+ and the space complexity is O(n) we just have a backup 
 
 
     def adding_a_contact(list_of_contact):
@@ -54,7 +55,8 @@ contact2 = Contact("ELson Magezaa", "0788683189", "shalomkeibe@gmail.com", "20/0
     contact = Contact(name, number, email, birthday, category)
     list_of_contact.append(contact)
     print("You have successfully added ", contact.name, " contact to your phonebook!")
-    
+ This function is to save the details contact so you can upload the name ,phone number ,gmail,Brithday ,and category 
+ the time complexity is BIG(O) because we have just and execution and the same array and then  the space complexcity is O(N)
   
     
     def removing_contact(list_of_contact):
@@ -68,7 +70,8 @@ contact2 = Contact("ELson Magezaa", "0788683189", "shalomkeibe@gmail.com", "20/0
             list_of_contact.remove(contact)
             print("You have sucessfully deleted the contact!")
             
-            
+ this function is to remove the a contact in this program we have the O(logn)  AND O(N) because the excution is in the same array so the program go elements by elemts and try so check the execution that we made .
+ 
      def print_contact(list_of_contact):
     print("\nBelow is your current contact list:\n")
     #for veiwing this data in a table format
@@ -79,38 +82,42 @@ contact2 = Contact("ELson Magezaa", "0788683189", "shalomkeibe@gmail.com", "20/0
         print("  {1}               | {2}                   | {3}                   ".format(3, contact.name, contact.phone_number, contact.email_adress))
         print("____________________________________________________________________________________________")
 
+This function neccesary to print the contact the we have O(1) and then the speed is the same brcause we just print the same array and the O(N)
 
-def delete_all(list_of_contact):
-    alert = input("Are You sure you want to clear your contact list? (Y/N)").upper()
-    if alert == "Y":
-        list_of_contact.clear()
-        print("You have deleted all contacts")
-        
-    else:
-        print("Okay! Program Starting again")
+
+     def delete_all(list_of_contact):
+         alert = input("Are You sure you want to clear your contact list? (Y/N)").upper()
+           if alert == "Y":
+             list_of_contact.clear()
+                print("You have deleted all contacts")
+  
+       else:
+         print("Okay! Program Starting again")
             
 
 
-#start the program
-User_Name = input("\nHello & Welcome!\nPlease add your first name here:  ")
-#Then I'll define the function that allows the OMONNDI to select the operation
+     #start the program
+     User_Name = input("\nHello & Welcome!\nPlease add your first name here:  ")
+    #Then I'll define the function that allows the OMONNDI to select the operation
+    
+  where we have the O(1) BECAUSE is just  a excution and the intemediaire speed and then the space complexity  is O(n)
 
-def main():
-    global User_Name
-    print("\n",User_Name, " What operation are you trying to carry out\n\nLIST OF OPERATIONS:\n")
-    print("1. View your contact list\n2. Add a contact to the list \n3. Remove(delete) a contact from the list \n4. View One contact's details \n5. Clear contact list\n\n")
+    def main():
+      global User_Name
+      print("\n",User_Name, " What operation are you trying to carry out\n\nLIST OF OPERATIONS:\n")
+       print("1. View your contact list\n2. Add a contact to the lis.t \n3. Remove(delete) a contact from the list \n4. View One contact's details \n5. Clear contact list\n\n")
 
-    operation = int(input("insert '1', '2', '3', '4', or '5' \n-->  "))
+       operation = int(input("insert '1', '2', '3', '4', or '5' \n-->  "))
 
-    if operation == 1 :
+     if operation == 1 :
         print_contact(list_of_contacts)
         other()
 
-    elif operation == 2 :
+     elif operation == 2 :
         adding_a_contact(list_of_contacts)
         other()
 
-    elif operation == 3 :
+     elif operation == 3 :
         removing_contact(list_of_contacts)
         other()
 
@@ -138,7 +145,7 @@ def main():
         print("Wrong Selection!! Try inserting 'Y' or 'N'")
         other()
 
-
+this function has all the option that we need the user need here the time complexity is  O(N) and  space O(N)  because the instruction is like one execution by one execution like  n+n+n+n 
 main()
 other()
     
